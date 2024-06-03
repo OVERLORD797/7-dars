@@ -1,0 +1,27 @@
+   
+   
+   
+   @media screen and (max-width:402px) and (min-width:0px) {
+
+       .navbar {
+           justify-content: space-between;
+           width: 402px;
+       }
+
+       .text {
+           padding-top: 20px;
+           font-size: 14px;
+       }
+
+
+       .rasm {
+           padding-top: 20px;
+           padding-left: 0px;
+           font-size: 15px;
+       }
+
+       .ota {
+           margin-left: 10px;
+           flex-wrap: wrap;
+       }
+   }
